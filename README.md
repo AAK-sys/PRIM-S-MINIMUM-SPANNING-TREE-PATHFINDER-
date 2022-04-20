@@ -17,4 +17,7 @@ or the following commands if you are on Linux/MacOS:
 ```
 <h2> args for different pre-made graphs</h2>
 
-
+none
+10 1
+12 0.3
+8 0.5
