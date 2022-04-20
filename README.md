@@ -11,5 +11,9 @@ The main program is SimGUI, which can be compiled and run with the following com
 
 or the following commands if you are on Linux/MacOS:
 
-javac -cp .:../310libs.jar *.java
-java -cp .:../310libs.jar SimGUI
+<ul>
+    <li>javac -cp .:../310libs.jar *.java
+    <li>java -cp .:../310libs.jar SimGUI
+</ul>
+
+
