@@ -15,6 +15,6 @@ or the following commands if you are on Linux/MacOS:
     javac -cp .:../310libs.jar *.java
     java -cp .:../310libs.jar SimGUI
 ```
-<h2> args for different pre-made graphs<\h2>
+<h2> args for different pre-made graphs</h2>
 
 
