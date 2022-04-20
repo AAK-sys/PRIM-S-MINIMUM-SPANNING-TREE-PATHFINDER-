@@ -4,18 +4,17 @@ The main program is SimGUI, which can be compiled and run with the following com
 
 
 ```C
-<ul>
-    <li>javac -cp .;../310libs.jar *.java</li>
-    <li>java -cp .;../310libs.jar SimGUI</li>
-</ul>
+    javac -cp .;../310libs.jar *.java
+    java -cp .;../310libs.jar SimGUI
 ```
 
 
 or the following commands if you are on Linux/MacOS:
 
-<ul>
-    <li>javac -cp .:../310libs.jar *.java
-    <li>java -cp .:../310libs.jar SimGUI
-</ul>
+```C
+    javac -cp .:../310libs.jar *.java
+    java -cp .:../310libs.jar SimGUI
+```
+<h2> args for different pre-made graphs<\h2>
 
 
