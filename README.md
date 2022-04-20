@@ -16,8 +16,9 @@ or the following commands if you are on Linux/MacOS:
     java -cp .:../310libs.jar SimGUI
 ```
 <h2> args for different pre-made graphs</h2>
-
-none
-10 1
-12 0.3
-8 0.5
+<ul>
+    <li>none</li>
+    <li>10 1</li>
+    <li>12 0.3</li>
+    <li>8 0.5</li>
+</ul>
